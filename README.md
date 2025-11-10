@@ -32,10 +32,9 @@ pip install PyQt5 PyQtWebEngine --only-binary :all:
 # Run the browser
 python3 secure_browser.py
 
+### Option 12: Native Windows (Most Reliable)
 
-Option 2: Native Windows (Most Reliable)
-
-Copy the following files to a Windows machine:
+```bash
 
 secure_browser.py
 
